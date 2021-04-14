@@ -2,7 +2,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Execution instructions
-
+Clone the repo
+`git clone https://github.com/NehaUpadhyay25/bowling-react-app.git`
 In the project directory, you can run:
 ### `npm install`
 Install the packages in the package.json 
